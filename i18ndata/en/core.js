@@ -2,9 +2,9 @@
 
 export default {
   richText: {
+    placeHolder: "Please enter your text here",
     formatParagraph: "Paragraph format",
     insertText: "Insert text",
-    placeHolder: "Please enter your text here",
   },
   date: {
     switch: {
