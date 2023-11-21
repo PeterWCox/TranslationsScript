@@ -331,7 +331,7 @@ export default {
   fileName: "Nom du fichier",
   hide: "Masquer",
   label: "Description",
-  module: _module,
+  module: "_module",
   metrics: {
     attestations: "Attestations",
     financialPromotion: "Documents commerciaux",
@@ -353,8 +353,8 @@ export default {
   moveDown: "Déplacer vers le bas",
   moveUp: "Déplacer vers le haut",
   new: "Nouveau",
-  paDealings: _paDealings,
-  permissions: _permissions,
+  paDealings: "_paDealings",
+  permissions: "_permissions",
   rename: "Renommer",
   assignedTo: "Propriétaire",
   dueDate: "Date d’échéance",
@@ -362,12 +362,12 @@ export default {
   comments: "Commentaires",
   remove: "Retirer",
   reviewer: "Réviseur",
-  reportEditor: _reportEditor,
+  reportEditor: "_reportEditor",
   refresh: "Actualiser",
   revert: "Refuser les modifications",
   save: "Enregistrer",
   saving: "Enregistrement en cours",
-  settings: _settings,
+  settings: "_settings",
   show: "Voir",
   submit: "Soumettre",
   table: {
@@ -408,7 +408,7 @@ export default {
     fieldRequired: " {0} est requis(e)",
     valueRequired: " La valeur est requise",
   },
-  templates: _templates,
+  templates: "_templates",
   commType: {
     selectIfYouWish:
       "Sélectionnez le compte pour lequel vous souhaitez consulter ou modifier les préférences de notification par e-mail :",

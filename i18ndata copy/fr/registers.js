@@ -317,7 +317,7 @@ export default {
       maxRowsForColumn: "Maximum de {0}",
       minRowsForColumn: "Minimum de {0}",
       countRowsForColumn: "Nombre de {0}",
-      summaryWhere: "{0} ; où {1}",
+      summaryWhere: `{0} ; où {1}`,
       recordSame: "{0} est égal à la ligne",
       recordDifferent: "{0} est différent de la ligne",
       literalValue: "Valeur à comparer",

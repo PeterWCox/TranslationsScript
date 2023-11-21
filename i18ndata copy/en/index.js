@@ -361,7 +361,7 @@ export default {
   fileName: "File Name",
   hide: "Hide",
   label: "Label",
-  module: _module,
+  module: "_module",
   metrics: {
     attestations: "Attestations",
     financialPromotion: "Financial Promotion",
@@ -384,8 +384,8 @@ export default {
   moveDown: "Move down",
   moveUp: "Move up",
   new: "New",
-  paDealings: _paDealings,
-  permissions: _permissions,
+  paDealings: "_paDealings",
+  permissions: "_permissions",
   rename: "Rename",
   assignedTo: "Assigned to",
   dueDate: "Due Date",
@@ -393,12 +393,12 @@ export default {
   comments: "Comments",
   remove: "Remove",
   refresh: "Refresh",
-  reportEditor: _reportEditor,
+  reportEditor: "_reportEditor",
   revert: "Revert",
   reviewer: "Reviewer",
   save: "Save",
   saving: "Saving",
-  settings: _settings,
+  settings: "_settings",
   show: "Show",
   submit: "Submit",
   table: {
@@ -432,7 +432,7 @@ export default {
     permissions: "You do not have permission for this action",
     invalidFileType: ".{0} is an invalid file extension for this action",
   },
-  templates: _templates,
+  templates: "_templates",
   commType: {
     selectIfYouWish:
       "Select if you wish to receive email notifications for the following events:",

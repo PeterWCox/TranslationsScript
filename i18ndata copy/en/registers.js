@@ -304,7 +304,7 @@ export default {
       maxRowsForColumn: "Maximum of {0}",
       minRowsForColumn: "Minimum of {0}",
       countRowsForColumn: "Count of {0}",
-      summaryWhere: "{0}; where {1}",
+      summaryWhere: "{0} where {1}",
       recordSame: "{0} matches the entry",
       recordDifferent: "{0} does not match the entry",
       literalValue: "Value to compare against the field",
